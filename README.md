@@ -1,7 +1,8 @@
 # FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation
 
-[![Paper](http://img.shields.io/badge/Paper-MICCAI%202025-blue)](https://arxiv.org/abs/XXXX.XXXXX)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Paper](https://img.shields.io/badge/Paper-MICCAI%202025-blue)](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_24)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.22580-b31b1b.svg)](https://arxiv.org/abs/2506.22580)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Official PyTorch implementation of our MICCAI 2025 spotlight paper **FedCLAM**.
 ## Abstract
@@ -77,3 +78,22 @@ Credits to the author of FedFA (https://github.com/tfzhou/FedFA) whose code stru
 ## 📜 Citation
 If you find the code and paper useful, please cite our paper which you can find here:
 https://link.springer.com/chapter/10.1007/978-3-032-04978-0_24
+
+A preprint is on arXiv: https://arxiv.org/abs/2506.22580
+
+```bibtex
+@inproceedings{siomos2025fedclam,
+  title     = {FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation},
+  author    = {Siomos, Vasilis and Passerat-Palmbach, Jonathan and Tarroni, Giacomo},
+  booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {15965},
+  pages     = {247--257},
+  year      = {2025},
+  publisher = {Springer},
+  doi       = {10.1007/978-3-032-04978-0_24}
+}
+```
+
+## License
+MIT, see [LICENSE](LICENSE).
