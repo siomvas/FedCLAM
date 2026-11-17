@@ -2,6 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-MICCAI%202025-blue)](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_24)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.22580-b31b1b.svg)](https://arxiv.org/abs/2506.22580)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24312816.svg)](https://doi.org/10.5281/zenodo.24312816)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Official PyTorch implementation of our MICCAI 2025 spotlight paper **FedCLAM**.
